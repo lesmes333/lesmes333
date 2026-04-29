@@ -1,4 +1,4 @@
-<<h1 align="center">Luis Alberto Lesmes Hernández</h1>
+<h1 align="center">Luis Alberto Lesmes Hernández</h1>
 
 <p align="center">
   Técnico Superior en Administración de Sistemas Informáticos en Red<br>
@@ -17,7 +17,7 @@
 
 Soy Técnico Superior en Administración de Sistemas Informáticos en Red, con formación en administración de infraestructuras IT, sistemas Windows y Linux, virtualización, redes, bases de datos y despliegue de servicios.
 
-Me interesa especialmente la administración de sistemas, la ciberseguridad, la automatización y el Cloud Computing. Actualmente estoy desarrollando proyectos personales para consolidar conocimientos, documentar laboratorios técnicos y construir soluciones útiles orientadas a entornos reales.
+Me interesa especialmente la administración de sistemas, la ciberseguridad, la automatización y el Cloud Computing. Actualmente desarrollo proyectos personales para consolidar conocimientos, documentar laboratorios técnicos y construir soluciones útiles orientadas a entornos reales.
 
 ---
 
@@ -50,7 +50,7 @@ Me interesa especialmente la administración de sistemas, la ciberseguridad, la 
   </tr>
   <tr>
     <td><strong>Ciberseguridad</strong></td>
-    <td>Kali Linux, Nmap, Wireshark, Hydra, hardening básico, análisis de red</td>
+    <td>Kali Linux, Nmap, Wireshark, Hydra, OWASP ZAP, Gophish, hardening básico, análisis de red</td>
   </tr>
   <tr>
     <td><strong>Desarrollo</strong></td>
@@ -76,6 +76,8 @@ Me interesa especialmente la administración de sistemas, la ciberseguridad, la 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gophish-2F4F4F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
@@ -108,6 +110,39 @@ Aplicación diseñada para registrar progreso personal de forma local, con enfoq
 
 ---
 
+### Laboratorio de ciberseguridad web y concienciación
+
+Proyecto personal basado en la creación de un entorno controlado para practicar análisis de seguridad, auditoría web y simulación de campañas de concienciación.
+
+**Herramientas utilizadas:**
+
+- OWASP ZAP para análisis dinámico de aplicaciones web.
+- Gophish para simulaciones de phishing y formación en concienciación.
+- Kali Linux para pruebas de seguridad en laboratorio.
+- Wireshark para análisis de tráfico.
+- Nmap para reconocimiento de servicios.
+- Docker y máquinas virtuales para aislar entornos de prueba.
+
+**Objetivos del proyecto:**
+
+- Analizar aplicaciones web en entornos autorizados.
+- Detectar configuraciones inseguras y vulnerabilidades comunes.
+- Comprender el flujo de una auditoría web básica.
+- Practicar generación de reportes técnicos.
+- Simular campañas internas de concienciación en un entorno controlado.
+- Documentar procedimientos, resultados y medidas de mitigación.
+
+**Áreas trabajadas:**
+
+- Análisis de tráfico HTTP/HTTPS.
+- Escaneo y enumeración de servicios.
+- Pruebas de seguridad sobre aplicaciones web.
+- Gestión de campañas de concienciación.
+- Configuración de entornos aislados.
+- Documentación técnica de hallazgos.
+
+---
+
 ## Laboratorios y prácticas técnicas
 
 Este perfil también recoge laboratorios, configuraciones y pruebas relacionadas con:
@@ -118,6 +153,8 @@ Este perfil también recoge laboratorios, configuraciones y pruebas relacionadas
 - Redes locales y servicios críticos.
 - Monitorización y análisis de tráfico.
 - Seguridad perimetral con firewalls.
+- Auditoría web con OWASP ZAP.
+- Simulación de campañas de concienciación con Gophish.
 - Automatización con Bash y PowerShell.
 - Virtualización con Proxmox y VirtualBox.
 
