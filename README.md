@@ -1,208 +1,235 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     HERO BANNER · Custom animated SVG (matrix rain + pulsing shield + scan)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=220&section=header&text=&fontSize=0" />
+![hero](./assets/hero-banner.svg)
 
-<!-- GLITCH NAME -->
+<!-- Animated typing intro -->
 <a href="https://github.com/lesmes333">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%94%8C%E2%94%80%E2%94%80+LUIS+ALBERTO+LESMES+%E2%94%80%E2%94%80%E2%94%90;%E2%94%94%E2%94%80%E2%94%80+CYBERSECURITY+ANALYST+%E2%94%80%E2%94%80%E2%94%98" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=Luis+Alberto+Lesmes+Hern%C3%A1ndez;Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;Linux+%C2%B7+Cloud+%C2%B7+Hardening+%C2%B7+Defense" alt="typing-header"/>
 </a>
 
 <br>
 
-```
-⠀⠀⠀⠀⠀⠀⣀⣤⣶⣿⣿⣿⣿⣿⣿⣶⣤⣀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣾⣿⡿⠟⠛⠉⠉⠉⠉⠛⠻⢿⣿⣷⣄⠀⠀⠀⠀
-⠀⠀⠀⣰⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣧⠀⠀⠀
-⠀⠀⢰⣿⡿⠀⠀⠀⠀🛡️⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⡆⠀⠀
-⠀⠀⣿⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⠀⠀
-⠀⠀⢿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣿⡿⠀⠀
-⠀⠀⠘⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⠃⠀⠀
-⠀⠀⠀⠘⢿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠃⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⠿⣿⣷⣦⣤⣀⣀⣤⣦⣶⣿⠿⠋⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠉⠙⠛⠛⠛⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&repeat=true&width=600&lines=%24+whoami+--verbose;%3E+Cybersecurity+Analyst+%7C+Linux+Hardening+%7C+Cloud+Security;%24+cat+%2Fetc%2Fmission.conf;%3E+Protecting+infrastructure.+Hunting+vulnerabilities.;%24+uptime;%3E+25y+%7C+Palencia%2C+Spain+%7C+Always+learning_" />
-
-<br>
-
-<!-- BADGES DE CONTACTO -->
-<a href="mailto:lesmes.luisber@gmail.com"><img src="https://img.shields.io/badge/SIGNAL-%23lesmes-2ea44f?style=for-the-badge&logo=minutemailer&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b"><img src="https://img.shields.io/badge/NET-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-<a href="https://github.com/lesmes333"><img src="https://img.shields.io/badge/NODE-GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
-
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> cat /etc/profile.d/about.sh`
-
-```bash
-#!/bin/bash
-# ╔══════════════════════════════════════════════════════════════╗
-# ║  THREAT PROFILE :: Luis Alberto Lesmes Hernández             ║
-# ╠══════════════════════════════════════════════════════════════╣
-# ║  ROLE     :: Cybersecurity Analyst                           ║
-# ║  BASE     :: Palencia, Spain                                 ║
-# ║  CERT     :: ASIR (Administración de Sistemas en Red)        ║
-# ║  SECTOR   :: Defensive Security · Cloud · Infrastructure     ║
-# ║  STATUS   :: Actively hunting vulnerabilities                ║
-# ╚══════════════════════════════════════════════════════════════╝
-
-export EXPERIENCE="Zunder Cybersecurity Dept."
-export FOCUS="Vulnerability Management, Linux Hardening, Cloud Security"
-export CLEARANCE="CVE Research · PoC Development · Incident Response"
-```
-
-> Técnico Superior en ASIR con especialización práctica en ciberseguridad adquirida en el **departamento de Ciberseguridad de Zunder**. Investigo, valido y mitigo vulnerabilidades críticas en kernel Linux. Diseño infraestructuras seguras. Cazo amenazas.
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> nmap -sV --script=skills localhost`
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<br><b>Docker</b>
-</td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-<br><b>Nginx</b>
-</td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br><b>MySQL</b>
-</td>
-<td align="center" width="140">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-<br><b>GitHub</b>
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,bash,powershell,docker,git,php,html,css,mysql&perline=6&theme=dark" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=7D8590&center=true&vCenter=true&width=720&height=30&lines=%24+whoami+--verbose;%24+cat+%2Fetc%2Fmission.conf;%24+sudo+protect+--infra+%2A;%24+uptime+%3D%3E+always+learning_" alt="subtitle"/>
 
 <br><br>
 
-<!-- SECURITY TOOLS -->
-<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Purview_DLP-742774?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoPhish-2C2C2C?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
-<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white"/>
+<!-- ───────────── CONTACT BADGES (centrados con espaciado fino) ───────────── -->
+
+<a href="mailto:lesmes.luisber@gmail.com">
+  <img src="https://img.shields.io/badge/-lesmes.luisber%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://github.com/lesmes333">
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117"/>
+</a>
+
+<br><br>
+
+<!-- Profile counter + status -->
+<img src="https://komarev.com/ghpvc/?username=lesmes333&style=flat-square&color=00ff41&label=PROFILE+SCANS&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE-00ff41?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-Palencia%2C%20ES-7d8590?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+![divider](./assets/divider.svg)
 
-## `> cat /var/log/experience.log`
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     ABOUT ME
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
+## <samp>` > cat /etc/profile.d/about.sh `</samp>
+
+```bash
+╔══════════════════════════════════════════════════════════════════╗
+║  THREAT PROFILE ::  Luis Alberto Lesmes Hernández                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ROLE       ::  Cybersecurity Analyst                            ║
+║  BASE       ::  Palencia, Spain                                  ║
+║  CERT       ::  ASIR (Administración de Sistemas en Red)         ║
+║  FOCUS      ::  Defensive Security · Cloud · Infrastructure      ║
+║  CLEARANCE  ::  CVE Research · PoC Dev · Incident Response       ║
+║  STATUS     ::  Actively hunting vulnerabilities                 ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🏢 ZUNDER · Cybersecurity Department                           │
-│  📅 Apr 2026 – Jun 2026 · Cybersecurity Analyst (FCT)          │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  [VULN]  Researched & mitigated critical Linux kernel CVEs      │
-│          CVE-2026-31431 · CVE-2026-43284 · CVE-2026-46333      │
-│                                                                 │
-│  [DFNS]  Operated Microsoft Defender for Endpoint & Office 365  │
-│                                                                 │
-│  [DLP]   Designed & deployed Purview DLP policies               │
-│          USB · RDP · Windows 365 · Cloud storage                │
-│                                                                 │
-│  [AUDIT] Pentested web apps & REST APIs                         │
-│          OWASP ZAP · Burp Suite · Postman                       │
-│                                                                 │
-│  [PHISH] Deployed corporate phishing simulation platform        │
-│          GoPhish · GCP · Docker · Nginx · TLS · Fortinet        │
-│                                                                 │
-│  [HARD]  Linux hardening on corporate cloud infrastructure      │
-│                                                                 │
-│  [DOCS]  Technical reports & PoC aligned with ENS + ISO 27001   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+
+> **Técnico Superior en ASIR** con especialización práctica en ciberseguridad adquirida en el **departamento de Ciberseguridad de Zunder**. Investigo, valido y mitigo vulnerabilidades críticas en kernel Linux. Diseño infraestructuras seguras. Cazo amenazas. 🛡️
+
+<br>
+
+![divider](./assets/divider.svg)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > nmap -sV --script=skills localhost `</samp>
+
+<div align="center">
+
+<br>
+
+<!-- Animated tech icons row -->
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,kali,docker,bash,powershell,git,github,nginx,mysql,php&perline=12&theme=dark" alt="tech-stack"/>
+
+<br><br>
+
+<!-- Security & Cloud tools -->
+<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Purview_DLP-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoPhish-2C2C2C?style=for-the-badge&logo=go&logoColor=00FF41"/>
+<img src="https://img.shields.io/badge/Hydra-D71920?style=for-the-badge&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenLDAP-003366?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
+
+</div>
+
+<br>
+
+![divider](./assets/divider.svg)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     CAPABILITIES MATRIX · Custom animated SVG (3 columnas centradas)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > systemctl status capabilities `</samp>
+
+<div align="center">
+
+![capabilities](./assets/capabilities.svg)
+
+</div>
+
+<br>
+
+![divider](./assets/divider.svg)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     EXPERIENCE LOG
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > tail -f /var/log/experience.log `</samp>
+
+```ansi
+[2026-04-07 09:00:00]  CONNECTED  →  Zunder · Cybersecurity Department
+[2026-04-07 09:00:01]  ROLE       :  Cybersecurity Analyst (FCT)
+[2026-04-07 09:00:02]  ─────────────────────────────────────────────
+
+[VULN ]  Researched & mitigated critical Linux kernel CVEs
+         ├─ CVE-2026-31431  "Copy Fail"
+         ├─ CVE-2026-43284  "Dirty Frag"
+         └─ CVE-2026-46333  "ssh-keysign-pwn"
+
+[DFNS ]  Operated Microsoft Defender (Endpoint + Office 365)
+         └─ Corporate fleet protection · alert triage
+
+[DLP  ]  Designed & deployed Purview DLP policies
+         ├─ USB device control
+         ├─ RDP / Windows 365 sessions
+         └─ Cloud storage governance
+
+[AUDIT]  Pentested web applications & REST APIs
+         └─ OWASP ZAP v2.16 · Burp Suite · Postman v11
+
+[PHISH]  Deployed corporate phishing simulation platform
+         ├─ GoPhish v0.12.1 on Google Cloud Platform
+         ├─ Docker 29.3 + Nginx 1.24 reverse proxy
+         ├─ TLS 1.2/1.3 + Let's Encrypt
+         └─ Multi-layer: Fortinet 100F + VPC + WAF + VPN
+
+[HARD ]  Linux hardening on corporate cloud infrastructure
+[DOCS ]  Technical reports & PoC aligned with ENS + ISO 27001
+
+[2026-06-17 18:00:00]  SESSION_END  →  Mission accomplished ✓
 ```
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+![divider](./assets/divider.svg)
 
-## `> tree /srv/projects --highlight`
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     PROJECTS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > tree /srv/projects --depth=2 `</samp>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎣 Corporate Phishing Platform
+### 🎣 &nbsp; Corporate Phishing Platform
 
-Plataforma de simulación de phishing desplegada en entorno corporativo real.
+> Plataforma de simulación de phishing desplegada en entorno corporativo real para concienciación en ciberseguridad.
 
-```
-Stack:
-├── GoPhish v0.12.1
-├── Docker 29.3 + Compose
-├── Google Cloud Platform
-│   ├── Compute Engine
-│   ├── VPC Firewall
-│   └── WAF
-├── Nginx 1.24 (Reverse Proxy)
-├── TLS 1.2/1.3 (Let's Encrypt)
-├── SPF / DKIM / DMARC
-├── Fortinet 100F NGFW
-└── SSH Tunnel over Corp VPN
+```yaml
+stack:
+  app:      GoPhish v0.12.1
+  runtime:  Docker 29.3 + Compose
+  cloud:    Google Cloud Platform
+    ├─ Compute Engine
+    ├─ VPC Firewall
+    └─ Cloud WAF
+  proxy:    Nginx 1.24 (TLS 1.2/1.3)
+  certs:    Let's Encrypt + Certbot 3.x
+  email:    SPF · DKIM · DMARC
+  firewall: Fortinet 100F NGFW
+  vpn:      SSH tunnel over corp VPN
 ```
 
 <img src="https://img.shields.io/badge/STATUS-DEPLOYED-00ff41?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STACK-7-7d8590?style=flat-square&labelColor=0d1117"/>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 Cybersecurity Home Lab
+### 🔬 &nbsp; Cybersecurity Home Lab
 
-Laboratorio personal de investigación y práctica ofensiva/defensiva.
+> Laboratorio personal de investigación, pentesting práctico y defensa adversarial.
 
-```
-Arsenal:
-├── Kali Linux 2024.x
-├── OWASP ZAP v2.16
-├── Burp Suite Community
-├── Wireshark 4.x
-├── Nmap 7.94
-├── Hydra 9.5
-├── Proxmox VE 8.x
-│   ├── ZFS Storage
-│   ├── VM Clusters
-│   └── Container Backups
-└── Docker Lab Environment
+```yaml
+arsenal:
+  recon:    Nmap 7.94 · OSINT
+  web:      OWASP ZAP v2.16
+            Burp Suite Community
+  network:  Wireshark 4.x
+  auth:     Hydra 9.5
+  os:       Kali Linux 2024.x
+  virt:     Proxmox VE 8.x
+    ├─ ZFS storage
+    ├─ Clustered VMs
+    └─ Container backups
+  lab:      Docker isolated env
 ```
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-00ff41?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/TOOLS-9%2B-7d8590?style=flat-square&labelColor=0d1117"/>
 
 </td>
 </tr>
@@ -212,99 +239,84 @@ Arsenal:
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+![divider](./assets/divider.svg)
 
-## `> systemctl status capabilities`
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     EDUCATION
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+## <samp>` > grep -r 'education' /etc/credentials/ `</samp>
 
-```
-  ┌──────────────────────┐   ┌──────────────────────┐   ┌──────────────────────┐
-  │   🔴 OFFENSIVE        │   │   🔵 DEFENSIVE        │   │   🟢 INFRASTRUCTURE  │
-  ├──────────────────────┤   ├──────────────────────┤   ├──────────────────────┤
-  │ Pentesting Web       │   │ Vuln Management      │   │ Linux Server Admin   │
-  │ API Security Audit   │   │ Microsoft Defender    │   │ Docker & Compose     │
-  │ Phishing Campaigns   │   │ Purview DLP           │   │ Proxmox VE           │
-  │ CVE Research & PoC   │   │ Threat Intelligence   │   │ Google Cloud         │
-  │ Network Analysis     │   │ Incident Response     │   │ Active Directory     │
-  │ OSINT                │   │ ISO 27001 / ENS       │   │ PKI & Cryptography   │
-  └──────────────────────┘   └──────────────────────┘   └──────────────────────┘
-```
+```diff
++ [ ACTIVE ]  Grado Superior ASIR
+@ C.I.F.P Camino de la Miranda · Palencia · 2024 – present
+! FCT: "Diseño, despliegue y operación de plataforma de simulación
+!       de phishing para concienciación en Ciberseguridad" · Zunder
 
-</div>
-
-<br>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## `> grep -r "education" /etc/credentials/`
-
-```
-📜 Grado Superior ASIR ─── C.I.F.P Camino de la Miranda, Palencia ─── 2024-Present
-   └─ FCT: "Diseño, despliegue y operación de plataforma de simulación
-      de phishing para concienciación en Ciberseguridad - Zunder"
-
-📜 Grado Medio SMR ─────── Centro IMPLIKA, Valladolid ────────────── 2020-2022
-   └─ Sistemas Microinformáticos y Redes
++ [ DONE   ]  Grado Medio SMR (Sistemas Microinformáticos y Redes)
+@ Centro IMPLIKA · Valladolid · 2020 – 2022
 ```
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+![divider](./assets/divider.svg)
 
-## `> tail -f /var/log/stats.log`
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     STATS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > tail -f /var/log/github-stats.log `</samp>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lesmes333&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&hide_border=false&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lesmes333&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&border=00ff41" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lesmes333&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&border_color=00ff41&hide_border=false&count_private=true&include_all_commits=true" height="170" alt="stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lesmes333&theme=chartreuse-dark&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=7d8590&border=00ff41" height="170" alt="streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesmes333&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesmes333&layout=compact&theme=chartreuse-dark&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&hide_border=false&langs_count=8" height="170" alt="top-langs"/>
+<img src="https://github-profile-trophy.vercel.app/?username=lesmes333&theme=matrix&no-frame=false&row=2&column=3&margin-w=10&margin-h=10&no-bg=true" height="170" alt="trophies"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lesmes333&theme=green&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4130&hide_border=false" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lesmes333&theme=github-compact&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff4133&hide_border=false&custom_title=Activity%20Graph%20%C2%B7%20Contribution%20Heatmap" width="100%" alt="activity"/>
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
+![divider](./assets/divider.svg)
 
-## `> cat /etc/motd`
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     CTA · OPEN TO WORK
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   "The only truly secure system is one that is powered off,          ║
-║    cast in a block of concrete, and sealed in a lead-lined room."    ║
-║                                                           — Gene Spafford  ║
-║                                                                      ║
-║   ... I prefer to keep them running and well defended.  🛡️            ║
-║                                                                      ║
-╚════════════════════════════════════════════════════════════════════════╝
-```
+## <samp>` > systemctl start hire-me.service `</samp>
 
 <br>
 
-<img src="https://img.shields.io/badge/🔒_Open_to_work-Cybersecurity_Analyst-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<a href="mailto:lesmes.luisber@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%94%93_OPEN_TO_WORK-Cybersecurity_Analyst-00ff41?style=for-the-badge&labelColor=0d1117&color=00ff41"/>
+</a>
 
 <br><br>
 
-<a href="mailto:lesmes.luisber@gmail.com"><img src="https://img.shields.io/badge/📧_lesmes.luisber@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41"/></a>
-<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b"><img src="https://img.shields.io/badge/💼_LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41"/></a>
+<a href="mailto:lesmes.luisber@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-lesmes.luisber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
+  <img src="https://img.shields.io/badge/💼_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
 
 </div>
 
 <br>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=120&section=footer" />
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     FOOTER · Custom animated SVG (quote + cursor)
+     ═══════════════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lesmes333&style=flat-square&color=00ff41&label=PROFILE+SCANS"/>
-</div>
+![footer](./assets/footer.svg)
