@@ -1,4 +1,276 @@
-<h1 align="center">Luis Alberto Lesmes Hernández</h1>
+<div align="center">
+
+# Luis Alberto Lesmes Hernández
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=Ciberseguridad+%7C+Blue+Team+%7C+Infraestructura+Segura;Linux+Hardening+%7C+Cloud+Security+%7C+Defensive+Security;Microsoft+Security+%7C+Docker+%7C+Proxmox+VE" />
+
+<br>
+
+<a href="mailto:lesmes.luisber@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lesmes333">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lesmes333&style=for-the-badge&color=0e75b6"/>
+
+</div>
+
+---
+
+# Sobre mí
+
+```yaml
+Nombre: Luis Alberto Lesmes Hernández
+Perfil: Cybersecurity & Infrastructure
+Especialización: Blue Team / Seguridad Defensiva
+Ubicación: Palencia, España
+Formación: ASIR
+Objetivo: Security Analyst / Infrastructure Security
+```
+
+Técnico Superior en Administración de Sistemas Informáticos en Red con especialización práctica en Ciberseguridad adquirida durante las prácticas profesionales en el departamento de Ciberseguridad de Zunder.
+
+Experiencia en:
+- Gestión de vulnerabilidades
+- Hardening Linux
+- Seguridad cloud
+- Auditoría web y APIs REST
+- Simulación de campañas de phishing
+- Infraestructura segura
+- Microsoft Security Stack
+
+---
+
+# Stack tecnológico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash,powershell,git,github,mysql,php,html,css"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Purview-4B5563?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
+
+</div>
+
+---
+
+# Áreas de especialización
+
+<table>
+<tr>
+<td width="50%">
+
+### Seguridad defensiva
+- Vulnerability Management
+- Microsoft Defender
+- Purview DLP
+- Hardening Linux
+- Auditoría web
+- Seguridad cloud
+
+</td>
+
+<td width="50%">
+
+### Infraestructura
+- Docker & Docker Compose
+- Proxmox VE
+- Active Directory
+- Reverse Proxy
+- VPN & DNS
+- Automatización
+
+</td>
+</tr>
+</table>
+
+---
+
+# Experiencia en Ciberseguridad
+
+## Zunder — Departamento de Ciberseguridad
+
+Prácticas profesionales centradas en:
+- Gestión y mitigación de vulnerabilidades
+- Hardening de sistemas Linux
+- Operación de Microsoft Defender
+- Implementación de políticas DLP
+- Auditoría de aplicaciones web y APIs REST
+- Simulación de campañas de phishing
+- Seguridad cloud corporativa
+- Elaboración de informes técnicos y PoC
+
+---
+
+# Proyectos destacados
+
+<table>
+<tr>
+<td width="50%">
+
+## Plataforma corporativa de phishing
+
+Infraestructura desplegada sobre Google Cloud Platform utilizando:
+
+- GoPhish
+- Docker
+- Nginx Reverse Proxy
+- TLS 1.2 / 1.3
+- SPF / DKIM / DMARC
+- VPN + SSH
+
+### Objetivos
+- Concienciación corporativa
+- Simulación controlada
+- Métricas de interacción
+- Seguridad defensiva
+
+</td>
+
+<td width="50%">
+
+## Laboratorio de ciberseguridad
+
+Entorno personal para:
+- Auditoría web
+- Hardening Linux
+- Análisis de tráfico
+- Virtualización
+- Simulación de infraestructura
+- Seguridad defensiva
+
+### Herramientas
+- OWASP ZAP
+- Burp Suite
+- Wireshark
+- Nmap
+- Kali Linux
+- Docker
+
+</td>
+</tr>
+</table>
+
+---
+
+# Infraestructura y sistemas
+
+```yaml
+Linux:
+  - Debian 12
+  - Ubuntu Server 24.04
+
+Windows:
+  - Windows Server 2025
+  - Active Directory
+  - GPOs
+
+Cloud:
+  - Google Cloud Platform
+  - Compute Engine
+  - WAF
+  - VPC Firewall
+
+Virtualización:
+  - Docker
+  - Docker Compose
+  - Proxmox VE
+  - LXC
+
+Networking:
+  - pfSense
+  - DNS
+  - VPN
+  - Reverse Proxy
+```
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lesmes333&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesmes333&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lesmes333&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Objetivo profesional
+
+Continuar desarrollándome profesionalmente en:
+- Blue Team Operations
+- Seguridad defensiva
+- Protección de infraestructuras
+- Gestión de vulnerabilidades
+- Cloud Security
+- Infraestructura corporativa segura
+
+mediante aprendizaje continuo, documentación técnica y proyectos reales.
+
+---
+
+# Contacto
+
+<div align="center">
+
+<a href="mailto:lesmes.luisber@gmail.com">
+  <img src="https://img.shields.io/badge/Email-lesmes.luisber%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis_Alberto_Lesmes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/lesmes333">
+  <img src="https://img.shields.io/badge/GitHub-lesmes333-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div><h1 align="center">Luis Alberto Lesmes Hernández</h1>
 
 <p align="center">
   Cybersecurity · Blue Team · Linux · Cloud · Infraestructura Segura
