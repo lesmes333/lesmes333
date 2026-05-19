@@ -1,130 +1,162 @@
-<div align="center">
+<h1 align="center">Luis Alberto Lesmes Hernández</h1>
 
-# Luis Alberto Lesmes Hernández
+<p align="center">
+  Ciberseguridad · Blue Team · Linux · Cloud · Infraestructura Segura
+</p>
 
-### Cybersecurity Analyst · Blue Team · Infrastructure Security · Linux Hardening
-
-<a href="mailto:lesmes.luisber@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/lesmes333">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="mailto:lesmes.luisber@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">LinkedIn</a> •
+  <a href="https://github.com/lesmes333">GitHub</a>
+</p>
 
 ---
 
-# About Me
+## Sobre mí
 
-Cybersecurity-focused ASIR technician with hands-on experience in corporate security environments during professional training at Zunder's Cybersecurity Department.
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con especialización práctica en Ciberseguridad adquirida durante las prácticas profesionales en el departamento de Ciberseguridad de Zunder.
 
-Specialized in:
-- Vulnerability Management
-- Linux Hardening
-- Infrastructure Security
-- Cloud Security
-- Web Security
-- Phishing Awareness
-- Blue Team Operations
+Experiencia en gestión de vulnerabilidades, hardening de infraestructuras Linux, simulación de campañas de phishing, auditoría de aplicaciones web y APIs REST y operación de soluciones Microsoft Security.
 
-Experience working with Microsoft Defender for Endpoint, Microsoft Defender for Office 365, Microsoft Purview (DLP), Docker, Proxmox VE, Active Directory, Google Cloud Platform and Linux/Windows Server environments.
+Orientado a Blue Team y seguridad defensiva, con interés en:
+- Gestión de vulnerabilidades
+- Seguridad cloud
+- Hardening Linux
+- Infraestructura corporativa
+- Auditoría web
+- Concienciación en ciberseguridad
 
 ---
 
-# Current Focus
+## Stack técnico
 
-```yaml
-Blue Team Operations:
-  - Threat Intelligence
-  - Vulnerability Management
-  - Incident Prevention
+<table>
+<tr>
+<td><strong>Seguridad</strong></td>
+<td>
+Microsoft Defender for Endpoint · Defender for Office 365 · Microsoft Purview (DLP) · OWASP ZAP · Burp Suite · GoPhish · Wireshark · Nmap
+</td>
+</tr>
 
-Infrastructure Security:
-  - Linux Hardening
-  - Secure Cloud Deployments
-  - Reverse Proxy Security
-  - VPN Restricted Access
+<tr>
+<td><strong>Sistemas</strong></td>
+<td>
+Linux Server · Debian · Ubuntu Server · Windows Server 2025 · Active Directory · OpenLDAP
+</td>
+</tr>
 
-Security Research:
-  - Web Security Testing
-  - API Auditing
-  - Security Awareness Platforms
+<tr>
+<td><strong>Cloud y Virtualización</strong></td>
+<td>
+Google Cloud Platform · Docker · Docker Compose · Proxmox VE · LXC
+</td>
+</tr>
 
-  Security Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,bash,powershell,git,github,mysql,php,html,css"/> </div> <div align="center"> <img src="https://img.shields.io/badge/Microsoft_Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Purview-4B5563?style=for-the-badge"/> <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/> <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge"/> </div>
+<tr>
+<td><strong>Redes y Perimetral</strong></td>
+<td>
+pfSense · Nginx · Apache · VPN · DNS · TLS · Reverse Proxy · SPF/DKIM/DMARC
+</td>
+</tr>
 
-Corporate Security Experience
-Zunder — Cybersecurity Department
+<tr>
+<td><strong>Automatización</strong></td>
+<td>
+PowerShell · Bash · Git · GitHub
+</td>
+</tr>
 
-Professional training experience focused on:
+<tr>
+<td><strong>Desarrollo y Bases de Datos</strong></td>
+<td>
+PHP · HTML5 · CSS3 · MySQL · Oracle SQL
+</td>
+</tr>
+</table>
 
-Vulnerability validation and mitigation
-Linux infrastructure hardening
-Security awareness and phishing simulation
-Microsoft Security Stack operations
-Web and API auditing
-Corporate cloud security
+---
 
-Technologies used:
+## Experiencia en Ciberseguridad
 
-Microsoft Defender for Endpoint
-Microsoft Defender for Office 365
-Microsoft Purview (DLP)
+### Zunder — Departamento de Ciberseguridad
+
+Prácticas profesionales orientadas a seguridad defensiva e infraestructura corporativa.
+
+### Áreas trabajadas
+
+- Gestión y mitigación de vulnerabilidades
+- Hardening de sistemas Linux
+- Operación de Microsoft Defender
+- Implementación de políticas DLP
+- Auditoría de aplicaciones web y APIs REST
+- Simulación de campañas de phishing
+- Seguridad cloud e infraestructura segura
+- Elaboración de informes técnicos y PoC
+
+### Tecnologías utilizadas
+
+```txt
+Microsoft Defender
+Microsoft Purview
 Docker
 Google Cloud Platform
-GoPhish
 Nginx
+GoPhish
 OWASP ZAP
 Burp Suite
+Linux
 PowerShell
 Bash
-Featured Projects
-Corporate Phishing Simulation Platform
+```
 
-Deployment and operation of a phishing awareness platform using:
+---
 
-GoPhish
-Docker
-Google Cloud Platform
-Nginx Reverse Proxy
-TLS 1.2 / TLS 1.3
-SPF / DKIM / DMARC
-VPN Restricted Administration
+## Proyectos destacados
 
-Focused on:
+### Plataforma corporativa de simulación de phishing
 
-Awareness campaigns
-Metrics analysis
-Secure deployment
-Controlled environments
-Defensive security
-Cybersecurity Lab Environment
+Diseño y despliegue de plataforma orientada a campañas de concienciación corporativa utilizando:
 
-Personal infrastructure for:
+- GoPhish
+- Docker
+- Google Cloud Platform
+- Nginx Reverse Proxy
+- TLS 1.2 / 1.3
+- SPF / DKIM / DMARC
+- Acceso seguro mediante VPN y SSH
 
-Web security testing
-Linux hardening
-Network traffic analysis
-Dockerized services
-Vulnerability testing
-Infrastructure simulations
+Objetivos:
+- Simulación controlada
+- Métricas de interacción
+- Concienciación corporativa
+- Infraestructura segura
 
-Technologies:
+---
 
-OWASP ZAP
-Burp Suite
-Wireshark
-Nmap
-Kali Linux
-Docker
-Proxmox VE
+### Laboratorio de ciberseguridad
 
+Entorno personal orientado a:
+- Auditoría web
+- Hardening Linux
+- Simulación de infraestructura
+- Análisis de tráfico
+- Despliegue seguro de servicios
+- Virtualización y contenedores
+
+Herramientas:
+- OWASP ZAP
+- Burp Suite
+- Wireshark
+- Nmap
+- Kali Linux
+- Docker
+- Proxmox VE
+
+---
+
+## Infraestructura y sistemas
+
+```yaml
 Linux:
   - Debian 12
   - Ubuntu Server 24.04
@@ -132,59 +164,70 @@ Linux:
 Windows:
   - Windows Server 2025
   - Active Directory
-  - Group Policies
+  - GPOs
 
 Cloud:
   - Google Cloud Platform
   - Compute Engine
-  - VPC Firewall
   - WAF
+  - VPC Firewall
 
-Virtualization:
+Virtualización:
   - Proxmox VE
   - Docker
   - Docker Compose
   - LXC
 
-Networking:
+Redes:
   - pfSense
-  - Nginx
-  - Apache
   - DNS
   - VPN
-  - TLS
+  - Reverse Proxy
+```
 
-  Technical Areas
-| Area               | Technologies                                          |
-| ------------------ | ----------------------------------------------------- |
-| Defensive Security | Microsoft Defender, Purview, Vulnerability Management |
-| Web Security       | OWASP ZAP, Burp Suite, API Testing                    |
-| Systems            | Linux, Windows Server, Active Directory               |
-| Cloud              | Google Cloud Platform, Docker                         |
-| Networking         | pfSense, DNS, VPN, Reverse Proxy                      |
-| Automation         | Bash, PowerShell                                      |
-| Databases          | MySQL, Oracle SQL                                     |
-| Virtualization     | Proxmox VE, Docker, LXC                               |
+---
 
-GitHub Statistics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lesmes333&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesmes333&layout=compact&theme=tokyonight&hide_border=true"/> </div>
+## Áreas de especialización
 
-Professional Goal
+- Blue Team
+- Seguridad defensiva
+- Vulnerability Management
+- Hardening Linux
+- Seguridad cloud
+- Seguridad web
+- Auditoría de APIs REST
+- Infraestructura corporativa
+- Automatización
+- Concienciación en ciberseguridad
 
-Continue growing professionally in:
+---
 
-Blue Team Operations
-Infrastructure Protection
-Cloud Security
-Vulnerability Management
-Enterprise Defensive Security
+## Formación
 
-while building secure, scalable and well-documented environments.
+### Técnico Superior en Administración de Sistemas Informáticos en Red
+C.I.F.P Camino de la Miranda — Palencia
 
-Contact
-| Platform | Link                                                                                                                                                 |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| LinkedIn | [https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b](https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b) |
-| GitHub   | [https://github.com/lesmes333](https://github.com/lesmes333)                                                                                         |
-| Email    | [lesmes.luisber@gmail.com](mailto:lesmes.luisber@gmail.com)                                                                                          |
-| Location | Palencia, Spain                                                                                                                                      |
+### Técnico en Sistemas Microinformáticos y Redes
+Centro Implika — Valladolid
+
+---
+
+## Objetivo profesional
+
+Continuar desarrollándome profesionalmente en el ámbito de la Ciberseguridad, participando en proyectos relacionados con protección de infraestructuras, seguridad defensiva, gestión de vulnerabilidades y seguridad cloud.
+
+---
+
+## Contacto
+
+- LinkedIn:  
+  https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b
+
+- GitHub:  
+  https://github.com/lesmes333
+
+- Email:  
+  lesmes.luisber@gmail.com
+
+- Ubicación:  
+  Palencia, España
