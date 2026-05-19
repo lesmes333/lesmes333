@@ -18,33 +18,45 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lesmes333&style=flat-square&color=00BFFF"/>
+
 </div>
 
 ---
 
-## Sobre mí
+# Sobre mí
+
+<div align="center">
 
 ```yaml
-Perfil:
-  - Analista de Ciberseguridad
-  - Infraestructura Segura
-  - Cloud & Virtualización
-  - Hardening Linux
-  - Seguridad Web
-
-Especialización:
+Analista de Ciberseguridad:
   - Gestión de vulnerabilidades
-  - Microsoft Security Stack
-  - Auditoría web y APIs REST
-  - Simulación de phishing
-  - Seguridad cloud corporativa
+  - Hardening Linux
+  - Seguridad cloud
+  - Auditoría web & APIs REST
+  - Infraestructura corporativa segura
+
+Tecnologías principales:
+  - Microsoft Defender
+  - Docker
+  - Google Cloud Platform
+  - Proxmox VE
+  - Linux Server
 ```
+
+</div>
+
+<br>
 
 Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con experiencia práctica en Ciberseguridad adquirida durante las prácticas profesionales en el departamento de Ciberseguridad de Zunder.
 
+Especializado en entornos Linux, virtualización, seguridad defensiva, cloud e infraestructura corporativa.
+
 ---
 
-## Stack tecnológico
+# Stack tecnológico
 
 <div align="center">
 
@@ -74,41 +86,51 @@ Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con
 
 ---
 
-## Áreas técnicas
+# Áreas técnicas
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
 ### Seguridad
-- Gestión de vulnerabilidades
-- Hardening Linux
-- Microsoft Defender
-- Purview DLP
-- Auditoría web
-- APIs REST
+
+Gestión de vulnerabilidades  
+Hardening Linux  
+Microsoft Defender  
+Purview DLP  
+Auditoría web  
+APIs REST  
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### Infraestructura
-- Docker & Compose
-- Proxmox VE
-- Active Directory
-- Reverse Proxy
-- VPN & DNS
-- Cloud Security
+
+Docker & Compose  
+Proxmox VE  
+Active Directory  
+Reverse Proxy  
+VPN & DNS  
+Cloud Security  
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## Experiencia destacada
+# Experiencia destacada
 
-### Zunder · Departamento de Ciberseguridad
+<div align="center">
+
+## Zunder · Departamento de Ciberseguridad
+
+</div>
 
 - Mitigación y validación de vulnerabilidades
 - Hardening de infraestructura Linux
@@ -121,84 +143,77 @@ Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) con
 
 ---
 
-## Proyectos
+# Proyectos
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### Plataforma corporativa de phishing
+## Plataforma corporativa de phishing
 
-- GoPhish
-- Docker
-- Google Cloud Platform
-- Nginx Reverse Proxy
-- TLS 1.2 / 1.3
-- SPF / DKIM / DMARC
+GoPhish  
+Docker  
+Google Cloud Platform  
+Nginx Reverse Proxy  
+TLS 1.2 / 1.3  
+SPF / DKIM / DMARC  
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### Laboratorio de ciberseguridad
+## Laboratorio de ciberseguridad
 
-- OWASP ZAP
-- Burp Suite
-- Wireshark
-- Nmap
-- Kali Linux
-- Docker
-- Proxmox VE
+OWASP ZAP  
+Burp Suite  
+Wireshark  
+Nmap  
+Kali Linux  
+Docker  
+Proxmox VE  
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## Infraestructura & Sistemas
+# Tecnologías & Entornos
 
-```yaml
-Linux:
-  - Debian 12
-  - Ubuntu Server 24.04
+<div align="center">
 
-Windows:
-  - Active Directory
-  - Windows Server 2025
-
-Cloud:
-  - Google Cloud Platform
-  - WAF
-  - VPC Firewall
-
-Networking:
-  - pfSense
-  - DNS
-  - VPN
-  - Reverse Proxy
+```txt
+Linux Server • Windows Server • Active Directory • Docker • Proxmox VE
+Google Cloud Platform • Reverse Proxy • VPN • DNS • TLS • Virtualización
+Microsoft Defender • Purview DLP • OWASP ZAP • Burp Suite • APIs REST
 ```
 
+</div>
+
 ---
 
-## Contacto
+# Contacto
 
 <div align="center">
 
 <a href="mailto:lesmes.luisber@gmail.com">
-  <img src="https://img.shields.io/badge/Email-lesmes.luisber%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GMAIL-lesmes.luisber%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/LinkedIn-Luis_Alberto_Lesmes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-Luis_Alberto_Lesmes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/lesmes333">
-  <img src="https://img.shields.io/badge/GitHub-lesmes333-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-lesmes333-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
