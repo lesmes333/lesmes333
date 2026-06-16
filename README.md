@@ -166,6 +166,10 @@
 [DFNS ]  Operated Microsoft Defender (Endpoint + Office 365)
          └─ Corporate fleet protection · alert triage
 
+[TINT ]  Threat Intelligence & alert investigation
+         ├─ IOC analysis · phishing / malware triage
+         └─ Detection tuning & threat hunting
+
 [DLP  ]  Designed & deployed Purview DLP policies
          ├─ USB device control
          ├─ RDP / Windows 365 sessions
@@ -181,7 +185,7 @@
          └─ Multi-layer: Fortinet 100F + VPC + WAF + VPN
 
 [HARD ]  Linux hardening on corporate cloud infrastructure
-[DOCS ]  Technical reports & PoC aligned with ENS + ISO 27001
+[DOCS ]  Technical reports & PoC documentation
 
 [2026-06-16 18:00:00]  SESSION_ACTIVE  →  Currently on duty ✓
 ```
