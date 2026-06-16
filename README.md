@@ -8,7 +8,7 @@
 
 <!-- Animated typing intro -->
 <a href="https://github.com/lesmes333">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=Luis+Alberto+Lesmes+Hern%C3%A1ndez;Cybersecurity+Analyst+%F0%9F%9B%A1%EF%B8%8F;Linux+%C2%B7+Cloud+%C2%B7+Hardening+%C2%B7+Defense" alt="typing-header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=60&lines=Luis+Alberto+Lesmes+Hern%C3%A1ndez;Cybersecurity+Technician+Jr.+%F0%9F%9B%A1%EF%B8%8F;Linux+%C2%B7+Cloud+%C2%B7+Hardening+%C2%B7+Defense" alt="typing-header"/>
 </a>
 
 <br>
@@ -36,7 +36,7 @@
 <!-- Profile counter + status -->
 <img src="https://komarev.com/ghpvc/?username=lesmes333&style=flat-square&color=00ff41&label=PROFILE+SCANS&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-AVAILABLE-00ff41?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-WORKING-00ff41?style=flat-square&labelColor=0d1117"/>
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-Palencia%2C%20ES-7d8590?style=flat-square&labelColor=0d1117"/>
 
@@ -56,12 +56,12 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  THREAT PROFILE ::  Luis Alberto Lesmes Hernández                ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ROLE       ::  Cybersecurity Analyst                            ║
+║  ROLE       ::  Cybersecurity Technician Jr.                     ║
 ║  BASE       ::  Palencia, Spain                                  ║
 ║  CERT       ::  ASIR (Administración de Sistemas en Red)         ║
 ║  FOCUS      ::  Defensive Security · Cloud · Infrastructure      ║
 ║  CLEARANCE  ::  CVE Research · PoC Dev · Incident Response       ║
-║  STATUS     ::  Actively hunting vulnerabilities                 ║
+║  STATUS     ::  Operational · defending live infra               ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -154,7 +154,7 @@
 
 ```ansi
 [2026-04-07 09:00:00]  CONNECTED  →  Zunder · Cybersecurity Department
-[2026-04-07 09:00:01]  ROLE       :  Cybersecurity Analyst (FCT)
+[2026-04-07 09:00:01]  ROLE       :  Cybersecurity Technician Jr.
 [2026-04-07 09:00:02]  ─────────────────────────────────────────────
 
 [VULN ]  Researched & mitigated critical Linux kernel CVEs
@@ -182,7 +182,7 @@
 [HARD ]  Linux hardening on corporate cloud infrastructure
 [DOCS ]  Technical reports & PoC aligned with ENS + ISO 27001
 
-[2026-06-17 18:00:00]  SESSION_END  →  Mission accomplished ✓
+[2026-06-16 18:00:00]  SESSION_ACTIVE  →  Currently on duty ✓
 ```
 
 <br>
@@ -298,7 +298,7 @@ arsenal:
      CONTACT · BIG, BOLD, IMPOSSIBLE TO MISS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <samp>` > systemctl start hire-me.service `</samp>
+## <samp>` > systemctl status contact.service `</samp>
 
 <div align="center">
 
@@ -319,7 +319,7 @@ arsenal:
 
 <br><br>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%9E_Available_for-Cybersecurity_Roles-00ff41?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/%F0%9F%92%AC_Open_to-Networking_%26_Collaboration-00ff41?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
