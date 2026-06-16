@@ -295,6 +295,22 @@ arsenal:
 ![divider](./assets/divider.svg)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
+     LIVE ACTIVITY · dynamic contribution graph
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > sudo tcpdump -i eth0 'activity' `</samp>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lesmes333&bg_color=0d1117&color=00ff41&line=00ff41&point=e6edf3&area=true&area_color=00ff41&title_color=00ff41&hide_border=true&custom_title=Commit%20Activity%20%C2%B7%20Packet%20Capture" alt="activity-graph" width="95%"/>
+
+</div>
+
+<br>
+
+![divider](./assets/divider.svg)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
      CONTACT · BIG, BOLD, IMPOSSIBLE TO MISS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
