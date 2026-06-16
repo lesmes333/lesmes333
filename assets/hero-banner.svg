@@ -33,6 +33,11 @@
   <rect width="1200" height="320" fill="url(#bgGrad)"/>
   <rect width="1200" height="320" fill="url(#grid)"/>
 
+  <!-- Global sweeping scan line -->
+  <rect x="0" width="1200" height="3" fill="#00ff41" opacity="0.18">
+    <animate attributeName="y" values="0;320;0" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
   <!-- Matrix rain columns -->
   <g font-family="monospace" font-size="14" fill="#00ff41" opacity="0.4">
     <text x="50" y="0">
