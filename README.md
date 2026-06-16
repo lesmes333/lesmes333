@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![hero](./assets/hero-banner.svg)
+![hero](./assets/hero-banner.svg?v=2)
 
 <!-- Animated typing intro -->
 <a href="https://github.com/lesmes333">
@@ -44,7 +44,7 @@
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      ABOUT ME
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-![about-card](./assets/about-card.svg)
+![about-card](./assets/about-card.svg?v=2)
 
 <br>
 
@@ -70,7 +70,7 @@
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      TECH STACK · con iconos GRANDES y animados de techstack-generator
@@ -129,7 +129,7 @@
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      CAPABILITIES MATRIX
@@ -139,13 +139,13 @@
 
 <div align="center">
 
-![capabilities](./assets/capabilities.svg)
+![capabilities](./assets/capabilities.svg?v=2)
 
 </div>
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      EXPERIENCE LOG
@@ -192,7 +192,7 @@
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      CVE TRACKER · sustituye a las stats de GitHub
@@ -202,13 +202,13 @@
 
 <div align="center">
 
-![cve-tracker](./assets/cve-tracker.svg)
+![cve-tracker](./assets/cve-tracker.svg?v=2)
 
 </div>
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      PROJECTS
@@ -230,6 +230,20 @@
 </a>
 
 <br><br>
+
+<table>
+<tr><td>
+
+> **🔍 OSINT Recon Suite** — Suite de inteligencia de fuentes abiertas escrita en **Python** para **reconocimiento pasivo** de un dominio. Descubre los **activos expuestos** (subdominios, DNS, WHOIS), identifica las **tecnologías** que usan, correlaciona **vulnerabilidades (CVEs)** y exploits públicos, integra los avisos de **INCIBE-CERT** 🇪🇸 y **vigila la dark web** vía Tor (menciones, filtraciones y brechas de datos). Ejecuta las fases **en paralelo** y genera informes en **JSON · CSV · Markdown · HTML**.
+>
+> ⚠️ Trabaja **solo con fuentes públicas indexadas**, sin interacción intrusiva con el objetivo. Uso **exclusivamente defensivo, en auditorías autorizadas y con fines educativos**.
+>
+> <sub>🏷️ `Python` · `OSINT` · `Threat Intelligence` · `CVE` · `INCIBE-CERT` · `Dark Web / Tor`</sub>
+
+</td></tr>
+</table>
+
+<br>
 
 <table>
 <tr>
@@ -290,7 +304,7 @@ arsenal:
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      EDUCATION
@@ -310,7 +324,7 @@ arsenal:
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      LIVE ACTIVITY · dynamic contribution graph
@@ -331,7 +345,7 @@ arsenal:
 
 <br>
 
-![divider](./assets/divider.svg)
+![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      CONTACT · BIG, BOLD, IMPOSSIBLE TO MISS
@@ -341,7 +355,7 @@ arsenal:
 
 <div align="center">
 
-![contact-card](./assets/contact-card.svg)
+![contact-card](./assets/contact-card.svg?v=2)
 
 <br>
 
@@ -368,7 +382,7 @@ arsenal:
      FOOTER · Custom animated SVG (quote + cursor)
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-![footer](./assets/footer.svg)
+![footer](./assets/footer.svg?v=2)
 
 <div align="center">
   <sub><i>Designed & built with 🛡️ by <b>lesmes333</b> · 2026</i></sub>
