@@ -105,8 +105,8 @@
 <br><br>
 
 <!-- Security & Cloud tools -->
-<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/Purview_DLP-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
+<img src="https://img.shields.io/badge/Purview_DLP-742774?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 <br>
@@ -132,7 +132,7 @@
 <img src="https://img.shields.io/badge/Shodan-A30000?style=for-the-badge&logo=shodan&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
 
 </div>
 
