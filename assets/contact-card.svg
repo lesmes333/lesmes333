@@ -34,7 +34,7 @@
 
   <!-- Top label -->
   <g font-family="'Courier New', monospace">
-    <text x="40" y="50" font-size="12" fill="#7d8590" letter-spacing="2">// LET'S CONNECT</text>
+    <text x="40" y="50" font-size="12" fill="#7d8590" letter-spacing="2">// CONTACT</text>
     <circle cx="850" cy="46" r="6" fill="#00ff41">
       <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
     </circle>
@@ -44,10 +44,10 @@
   <!-- Main heading -->
   <g font-family="'Courier New', monospace" text-anchor="middle">
     <text x="450" y="105" font-size="36" font-weight="bold" fill="#00ff41" filter="url(#cardGlow)" letter-spacing="3">
-      OPEN TO WORK
+      LET'S CONNECT
     </text>
     <text x="450" y="138" font-size="16" fill="#c9d1d9" letter-spacing="6">
-      ▸ CYBERSECURITY ANALYST ◂
+      ▸ CYBERSECURITY TECHNICIAN JR ◂
     </text>
   </g>
 
@@ -85,8 +85,8 @@
 
     <g transform="translate(460, 260)">
       <rect width="380" height="40" rx="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
-      <text x="20" y="25" font-size="12" fill="#7d8590">🚀 AVAILABILITY</text>
-      <text x="370" y="25" font-size="13" fill="#00ff41" text-anchor="end" font-weight="bold">Inmediata · Movilidad ✓</text>
+      <text x="20" y="25" font-size="12" fill="#7d8590">💼 STATUS</text>
+      <text x="370" y="25" font-size="13" fill="#00ff41" text-anchor="end" font-weight="bold">Working · Always learning ✓</text>
     </g>
   </g>
 
