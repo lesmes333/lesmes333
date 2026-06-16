@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 320" width="880" height="320">
+  <defs>
+    <linearGradient id="aboutBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0a1a0e"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="aboutBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00ff41"/>
+      <stop offset="50%" stop-color="#00ff41" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00ff41"/>
+    </linearGradient>
+    <pattern id="aboutGrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#00ff41" stroke-width="0.2" opacity="0.12"/>
+    </pattern>
+    <filter id="aboutGlow"><feGaussianBlur stdDeviation="1.2"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+
+  <!-- Card -->
+  <rect x="8" y="8" width="864" height="304" rx="14" fill="url(#aboutBg)" stroke="url(#aboutBorder)" stroke-width="2"/>
+  <rect x="8" y="8" width="864" height="304" rx="14" fill="url(#aboutGrid)"/>
+
+  <!-- Title bar -->
+  <line x1="8" y1="52" x2="872" y2="52" stroke="#00ff41" stroke-width="0.5" opacity="0.35"/>
+  <circle cx="38" cy="32" r="6" fill="#ff5f56"/>
+  <circle cx="60" cy="32" r="6" fill="#ffbd2e"/>
+  <circle cx="82" cy="32" r="6" fill="#27c93f"/>
+  <text x="440" y="37" font-family="'Courier New', monospace" font-size="13" fill="#7d8590" text-anchor="middle" letter-spacing="1">luis@lesmes: ~/profile $ cat about.sh</text>
+
+  <!-- Sweeping scan line -->
+  <rect x="8" y="52" width="864" height="2" fill="#00ff41" opacity="0.35">
+    <animate attributeName="y" values="54;306;54" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Rows -->
+  <g font-family="'Courier New', monospace" font-size="15">
+    <!-- NAME -->
+    <text x="40"  y="92"  fill="#7d8590">NAME</text>
+    <text x="200" y="92"  fill="#00ff41">::</text>
+    <text x="230" y="92"  fill="#e6edf3" font-weight="bold">Luis Alberto Lesmes Hernández</text>
+
+    <!-- ROLE -->
+    <text x="40"  y="124" fill="#7d8590">ROLE</text>
+    <text x="200" y="124" fill="#00ff41">::</text>
+    <text x="230" y="124" fill="#00ff41" font-weight="bold" filter="url(#aboutGlow)">Cybersecurity Technician Jr.</text>
+
+    <!-- BASE -->
+    <text x="40"  y="156" fill="#7d8590">BASE</text>
+    <text x="200" y="156" fill="#00ff41">::</text>
+    <text x="230" y="156" fill="#e6edf3">Palencia, España</text>
+
+    <!-- CERT -->
+    <text x="40"  y="188" fill="#7d8590">CERT</text>
+    <text x="200" y="188" fill="#00ff41">::</text>
+    <text x="230" y="188" fill="#e6edf3">ASIR · Administración de Sistemas en Red</text>
+
+    <!-- FOCUS -->
+    <text x="40"  y="220" fill="#7d8590">FOCUS</text>
+    <text x="200" y="220" fill="#00ff41">::</text>
+    <text x="230" y="220" fill="#e6edf3">Defensive Security · Cloud · Infrastructure</text>
+
+    <!-- SKILLS -->
+    <text x="40"  y="252" fill="#7d8590">SKILLS</text>
+    <text x="200" y="252" fill="#00ff41">::</text>
+    <text x="230" y="252" fill="#e6edf3">CVE Research · PoC Dev · Incident Response</text>
+
+    <!-- STATUS -->
+    <text x="40"  y="284" fill="#7d8590">STATUS</text>
+    <text x="200" y="284" fill="#00ff41">::</text>
+    <circle cx="238" cy="279" r="5" fill="#00ff41">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="252" y="284" fill="#00ff41" font-weight="bold">Operational · defending live infra</text>
+  </g>
+
+  <!-- Corner brackets -->
+  <g stroke="#00ff41" stroke-width="2" fill="none" opacity="0.6">
+    <path d="M 22 70 L 22 92 M 22 70 L 44 70"/>
+    <path d="M 858 70 L 858 92 M 858 70 L 836 70"/>
+    <path d="M 22 298 L 22 276 M 22 298 L 44 298"/>
+    <path d="M 858 298 L 858 276 M 858 298 L 836 298"/>
+  </g>
+</svg>
