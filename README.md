@@ -24,7 +24,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://github.com/lesmes333">
@@ -105,8 +105,8 @@
 <br><br>
 
 <!-- Security & Cloud tools -->
-<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
-<img src="https://img.shields.io/badge/Purview_DLP-742774?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
+<img src="https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YyNTAyMiIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM3ZmJhMDAiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYjkwMCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D"/>
+<img src="https://img.shields.io/badge/Purview_DLP-742774?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YyNTAyMiIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM3ZmJhMDAiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYjkwMCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D"/>
 <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
 <br>
@@ -132,7 +132,7 @@
 <img src="https://img.shields.io/badge/Shodan-A30000?style=for-the-badge&logo=shodan&logoColor=white"/>
 <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iJTIzZjI1MDIyIiBkPSJNMSAxaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzN2ZiYTAwIiBkPSJNMTIgMWgxMHYxMEgxMnoiLz48cGF0aCBmaWxsPSIlMjMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iJTIzZmZiOTAwIiBkPSJNMTIgMTJoMTB2MTBIMTJ6Ii8%2BPC9zdmc%2B"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMyAyMyI%2BPHBhdGggZmlsbD0iI2YyNTAyMiIgZD0iTTEgMWgxMHYxMEgxeiIvPjxwYXRoIGZpbGw9IiM3ZmJhMDAiIGQ9Ik0xMiAxaDEwdjEwSDEyeiIvPjxwYXRoIGZpbGw9IiMwMGE0ZWYiIGQ9Ik0xIDEyaDEwdjEwSDF6Ii8%2BPHBhdGggZmlsbD0iI2ZmYjkwMCIgZD0iTTEyIDEyaDEwdjEwSDEyeiIvPjwvc3ZnPg%3D%3D"/>
 
 </div>
 
@@ -322,14 +322,42 @@ arsenal:
 ## <samp>` > grep -r 'education' /etc/credentials/ `</samp>
 
 ```diff
-+ [ ACTIVE ]  Grado Superior ASIR
-@ C.I.F.P Camino de la Miranda · Palencia · 2024 – present
++ [ DONE   ]  Grado Superior ASIR  ·  ✓ Finalizado
+@ C.I.F.P Camino de la Miranda · Palencia · 2024 – 2026
 ! FCT: "Diseño, despliegue y operación de plataforma de simulación
 !       de phishing para concienciación en Ciberseguridad" · Zunder
 
 + [ DONE   ]  Grado Medio SMR (Sistemas Microinformáticos y Redes)
 @ Centro IMPLIKA · Valladolid · 2020 – 2022
 ```
+
+<br>
+
+### <samp>` > cat /etc/credentials/roadmap.cfg `</samp>
+
+<div align="center">
+
+<table>
+<tr><td>
+
+```diff
+@ CERTIFICATION ROADMAP
++ [ NEXT  ]  eJPTv2 — eLearnSecurity Junior Penetration Tester  (INE Security)
+~ Status: starting soon · hands-on practical pentesting exam
+```
+
+</td></tr>
+</table>
+
+<a href="https://security.ine.com/certifications/ejpt-certification/">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Next_Certification-eJPTv2-00ff41?style=for-the-badge&labelColor=0d1117"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Practical_Pentesting-7d8590?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Starting_Soon-ffbd2e?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
 
 <br>
 
@@ -402,7 +430,7 @@ arsenal:
 <br><br>
 
 <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0A66C2"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D&labelColor=0A66C2"/>
 </a>
 
 <br><br>
