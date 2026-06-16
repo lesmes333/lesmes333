@@ -20,15 +20,15 @@
 <!-- ───────────── CONTACT BADGES ───────────── -->
 
 <a href="mailto:lesmes.luisber@gmail.com">
-  <img src="https://img.shields.io/badge/-lesmes.luisber%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-lesmes.luisber%40gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0d1117"/>
 </a>
 &nbsp;
 <a href="https://github.com/lesmes333">
-  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <br><br>
@@ -124,6 +124,15 @@
 <img src="https://img.shields.io/badge/OpenLDAP-003366?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white"/>
+
+<br><br>
+
+<!-- OSINT & Threat Intel arsenal -->
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-C42B1C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shodan-A30000?style=for-the-badge&logo=shodan&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 </div>
 
@@ -327,6 +336,32 @@ arsenal:
 ![divider](./assets/divider.svg?v=2)
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
+     LEVELING UP · currently learning
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## <samp>` > apt-get install --upgrade skills `</samp>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=700&color=00FF41&center=true&vCenter=true&width=760&height=40&lines=Currently+leveling+up...;KQL+%C2%B7+Microsoft+Sentinel+(SIEM);Threat+Hunting+%C2%B7+Detection+Engineering;Malware+Triage+%C2%B7+DFIR+fundamentals" alt="learning"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/learning-KQL-00ff41?style=flat-square&labelColor=0d1117&logo=microsoft&logoColor=00ff41"/>
+&nbsp;
+<img src="https://img.shields.io/badge/learning-Microsoft_Sentinel-00ff41?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/learning-Threat_Hunting-00ff41?style=flat-square&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/learning-Malware_Triage-00ff41?style=flat-square&labelColor=0d1117&logo=virustotal&logoColor=00ff41"/>
+
+</div>
+
+<br>
+
+![divider](./assets/divider.svg?v=2)
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
      LIVE ACTIVITY · dynamic contribution graph
      ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -367,7 +402,7 @@ arsenal:
 <br><br>
 
 <a href="https://www.linkedin.com/in/luis-alberto-lesmes-hern%C3%A1ndez-03207838b">
-  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect_with_me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect_with_me-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iJTIzZmZmZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&labelColor=0A66C2"/>
 </a>
 
 <br><br>
