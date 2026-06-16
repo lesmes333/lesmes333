@@ -63,7 +63,7 @@
       <text x="20" y="140">▸ Purview DLP</text>
       <text x="20" y="165">▸ Threat Intelligence</text>
       <text x="20" y="190">▸ Incident Response</text>
-      <text x="20" y="215">▸ ISO 27001 / ENS</text>
+      <text x="20" y="215">▸ Phishing Simulation</text>
       <text x="20" y="240">▸ Linux Hardening</text>
     </g>
     <text x="20" y="268" font-family="'Courier New', monospace" font-size="10" fill="#3a8eff" opacity="0.6">[ STATUS: MONITORING ]</text>
