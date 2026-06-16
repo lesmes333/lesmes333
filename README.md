@@ -52,20 +52,21 @@
 
 ## <samp>` > cat /etc/profile.d/about.sh `</samp>
 
-```bash
-╔══════════════════════════════════════════════════════════════════╗
-║  THREAT PROFILE ::  Luis Alberto Lesmes Hernández                ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ROLE       ::  Cybersecurity Technician Jr.                     ║
-║  BASE       ::  Palencia, Spain                                  ║
-║  CERT       ::  ASIR (Administración de Sistemas en Red)         ║
-║  FOCUS      ::  Defensive Security · Cloud · Infrastructure      ║
-║  CLEARANCE  ::  CVE Research · PoC Dev · Incident Response       ║
-║  STATUS     ::  Operational · defending live infra               ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+![about-card](./assets/about-card.svg)
+
+<br>
+
+<table>
+<tr><td>
 
 > **Técnico Superior en ASIR** con especialización práctica en ciberseguridad adquirida en el **departamento de Ciberseguridad de Zunder**. Investigo, valido y mitigo vulnerabilidades críticas en kernel Linux. Diseño infraestructuras seguras. Cazo amenazas. 🛡️
+
+</td></tr>
+</table>
+
+</div>
 
 <br>
 
@@ -213,6 +214,19 @@
 
 <div align="center">
 
+<!-- ⭐ FEATURED PUBLIC REPO -->
+<a href="https://github.com/lesmes333/OSINT-Prototype">
+  <img src="https://img.shields.io/badge/%E2%AD%90_FEATURED_REPO-OSINT--Prototype-00ff41?style=for-the-badge&logo=python&logoColor=00ff41&labelColor=0d1117"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/lesmes333/OSINT-Prototype">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lesmes333&repo=OSINT-Prototype&bg_color=0d1117&title_color=00ff41&text_color=e6edf3&icon_color=00ff41&border_color=00ff41&show_owner=false" alt="OSINT-Prototype"/>
+</a>
+
+<br><br>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -301,6 +315,11 @@ arsenal:
 ## <samp>` > sudo tcpdump -i eth0 'activity' `</samp>
 
 <div align="center">
+
+<!-- 🐍 Contribution snake (auto-generated every 12h via GitHub Action) -->
+<img src="https://raw.githubusercontent.com/lesmes333/lesmes333/output/snake-dark.svg" alt="contribution-snake" width="95%"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lesmes333&bg_color=0d1117&color=00ff41&line=00ff41&point=e6edf3&area=true&area_color=00ff41&title_color=00ff41&hide_border=true&custom_title=Commit%20Activity%20%C2%B7%20Packet%20Capture" alt="activity-graph" width="95%"/>
 
